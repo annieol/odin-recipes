@@ -1,0 +1,21 @@
+img {
+    height: 200px;
+    width: auto;
+}
+h1 {
+    font-size: 30px;
+    color: #FF5050;
+}
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+.cinnamon-rolls {
+    color: #EEB826;
+}
+.ramen {
+    color: #0FDB15;
+}
+html {
+    background-color: paleturquoise;
+    text-align-last: center;
+}
